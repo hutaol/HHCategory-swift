@@ -1,0 +1,6 @@
+framework module HHCategory_swift {
+  umbrella header "HHCategory-swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
